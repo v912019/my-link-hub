@@ -1,0 +1,17 @@
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Editor config
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Node (in case you add tooling later)
+node_modules/
+npm-debug.log
+
+# Environment variables (never commit secrets)
+.env
+.env.local
